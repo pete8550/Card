@@ -27,6 +27,7 @@ public class Main {
 
 	    double e=(y1-y2)*x1-(x1-x2)*y1;
 	    double f=(y3-y4)*x3-(x3-x4)*x3;
+
 	    
 
     }
